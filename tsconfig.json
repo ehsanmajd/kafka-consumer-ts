@@ -1,0 +1,21 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "inlineSources": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "noEmitOnError": false,
+    "noImplicitThis": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "preserveSymlinks": true,
+    "rootDir": ".",
+    "pretty": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2019",
+    "types": ["node"]
+  }
+}
